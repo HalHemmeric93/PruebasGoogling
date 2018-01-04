@@ -1,0 +1,5 @@
+C:\Users\usuario\Desktop\PruenasGoogling\Proyecto\PartidaTenisJMC\PartidaTenisJMC_Services\obj\Debug\PartidaTenisJMC_Services.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\PruenasGoogling\Proyecto\PartidaTenisJMC\PartidaTenisJMC_Services\bin\Debug\PartidaTenisJMC_Services.dll
+C:\Users\usuario\Desktop\PruenasGoogling\Proyecto\PartidaTenisJMC\PartidaTenisJMC_Services\bin\Debug\PartidaTenisJMC_Services.pdb
+C:\Users\usuario\Desktop\PruenasGoogling\Proyecto\PartidaTenisJMC\PartidaTenisJMC_Services\obj\Debug\PartidaTenisJMC_Services.dll
+C:\Users\usuario\Desktop\PruenasGoogling\Proyecto\PartidaTenisJMC\PartidaTenisJMC_Services\obj\Debug\PartidaTenisJMC_Services.pdb

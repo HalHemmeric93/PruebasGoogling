@@ -1,0 +1,10 @@
+C:\Users\usuario\Desktop\PruenasGoogling\Proyecto\PartidaTenisJMC\PartidaTenisJMC\bin\Debug\PartidaTenisJMC.exe.config
+C:\Users\usuario\Desktop\PruenasGoogling\Proyecto\PartidaTenisJMC\PartidaTenisJMC\bin\Debug\PartidaTenisJMC.exe
+C:\Users\usuario\Desktop\PruenasGoogling\Proyecto\PartidaTenisJMC\PartidaTenisJMC\bin\Debug\PartidaTenisJMC.pdb
+C:\Users\usuario\Desktop\PruenasGoogling\Proyecto\PartidaTenisJMC\PartidaTenisJMC\bin\Debug\SimpleInjector.dll
+C:\Users\usuario\Desktop\PruenasGoogling\Proyecto\PartidaTenisJMC\PartidaTenisJMC\bin\Debug\SimpleInjector.xml
+C:\Users\usuario\Desktop\PruenasGoogling\Proyecto\PartidaTenisJMC\PartidaTenisJMC\obj\Debug\PartidaTenisJMC.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\PruenasGoogling\Proyecto\PartidaTenisJMC\PartidaTenisJMC\obj\Debug\PartidaTenisJMC.exe
+C:\Users\usuario\Desktop\PruenasGoogling\Proyecto\PartidaTenisJMC\PartidaTenisJMC\obj\Debug\PartidaTenisJMC.pdb
+C:\Users\usuario\Desktop\PruenasGoogling\Proyecto\PartidaTenisJMC\PartidaTenisJMC\bin\Debug\PartidaTenisJMC_Services.dll
+C:\Users\usuario\Desktop\PruenasGoogling\Proyecto\PartidaTenisJMC\PartidaTenisJMC\bin\Debug\PartidaTenisJMC_Services.pdb
